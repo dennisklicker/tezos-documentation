@@ -1,3 +1,5 @@
+<p>This is just an example of a succint provenance section. It's got the vital information needed for someone who is attempting to do due diligence with links to the most used block explorers. If there is other types of information that would be good to include (websites, social media channels, etc) please submit a pull request.</p>
+
 # Provenance 
 
 ### Contract Address 
